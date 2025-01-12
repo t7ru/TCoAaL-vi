@@ -8,7 +8,7 @@ Bản dịch The Coffin of Andy and Leyley với CGs được Việt hóa. <b>B�
 </p>
 
 ## Cài đặt
-- Đi đến phần phát hành (releases)  
+- Đi đến phần [phát hành](https://github.com/t7ru/TCoAaL-vi/releases/latest/) (releases)  
 - Tải xuống tệp "VITranslation.zip"  
 - Mở thư mục TCoAaL của bạn  
 

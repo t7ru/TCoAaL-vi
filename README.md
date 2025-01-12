@@ -13,7 +13,7 @@ Made on ver. 2.0.14
 </p>
 
 ## Installation
-* Go to releases
+* Go to [releases](https://github.com/t7ru/TCoAaL-vi/releases/latest/)
 * Download "VITranslation.zip"
 * Head into your TCoAaL folder
 
