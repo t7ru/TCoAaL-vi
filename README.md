@@ -1,7 +1,7 @@
 # CLEAN CGS WITHOUT TEXT
 <b>THIS REPOSITORY ALSO HAS CGs WITH TEXT MANUALLY REMOVED</b> (except for the main menu CG, I used AI for that,) <b>IF YOU'RE LOOKING FOR THEM THEY'RE IN THE "SourceAssets" FOLDER.</b>
 
-# TCoAaL-vi
+# The Coffin of Andy and Leyley Vietnamese translation
 The Coffin of Andy and Leyley Vietnamese translation with CGs translated. <b>Based on [Orthez's](https://steamcommunity.com/profiles/76561199376023377) translation.</b>
 
 Made on ver. 2.0.14
