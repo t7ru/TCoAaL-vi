@@ -37,3 +37,13 @@ Made on ver. 2.0.14
 - Mở "www", rồi tiếp là "languages"  
 - Giải nén thư mục "vi" vào đó  
 - Mở game và bạn sẽ có thể chọn tiếng Việt trong phần cài đặt ngôn ngữ (languages)
+
+# Clean CGs FAQs
+## How do I open PDN files?
+You need to install Paint.net, you can find it [here](https://www.getpaint.net/download.html).
+
+## What is the difference between PDN and PNG?
+PDN files has layers which can be moved, so that you can put text under another object. Ground20 is a good example of this.
+
+PNG are fixed, they don't have layers.
+
