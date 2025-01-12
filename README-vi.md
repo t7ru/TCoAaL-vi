@@ -1,5 +1,5 @@
 # The Coffin of Andy and Leyley Việt hóa
-Bản dịch The Coffin of Andy and Leyley với CGs được Việt hóa. <b>Bản gốc được dịch bởi [Orthez](https://steamcommunity.com/profiles/76561199376023377).</b>
+Bản dịch Tiếng Việt của The Coffin of Andy and Leyley với CGs. <b>Bản gốc được dịch bởi [Orthez](https://steamcommunity.com/profiles/76561199376023377).</b>
 
 Được dịch ở phiên bản 2.0.14
 
