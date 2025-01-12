@@ -31,7 +31,9 @@ Made on ver. 2.0.14
 You need to install Paint.net, you can find it [here](https://www.getpaint.net/download.html).
 
 ## What is the difference between PDN and PNG?
-PDN files has layers which can be moved, so that you can put text under another object. Ground20 is a good example of this.
+PDN files has layers which can be moved meaning you can put text or images under an another image. Ground20 is a good example of this.
 
 PNG are fixed, they don't have layers.
 
+## Do I have to credit you?
+No, of course not! I don't own these images, I merely just edited them out. Sharing this repository should be done out of good will instead of being necessary.
