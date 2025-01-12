@@ -4,6 +4,8 @@
 # TCoAaL-vi
 The Coffin of Andy and Leyley Vietnamese translation with CGs translated. <b>Based on [Orthez's](https://steamcommunity.com/profiles/76561199376023377) translation.</b>
 
+Made on ver. 2.0.14
+
 <p align="center">
     <img src="GithubAssets/Main.png" alt="Main">
 </p>
