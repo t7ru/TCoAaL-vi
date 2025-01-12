@@ -14,7 +14,7 @@ Bản dịch The Coffin of Andy and Leyley với CGs được Việt hóa. <b>B�
 
 <details>  
 <summary><i>Bấm vào đây nếu bạn không biết cách tìm thư mục</i></summary>  
-- <img width="50%" src="GithubAssets/Tutorial.png" alt="tuto">  
+<img width="50%" src="GithubAssets/Tutorial.png" alt="tuto">  
 </details>  
 
 - Mở "www", rồi tiếp là "languages"  

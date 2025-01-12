@@ -19,7 +19,7 @@ Made on ver. 2.0.14
 
 <details>
 <summary><i>Click me if you don't know how to find the folder</i></summary>
-* <img width="50%" src="GithubAssets/Tutorial.png" alt="tuto">
+<img width="50%" src="GithubAssets/Tutorial.png" alt="tuto">
 </details>
 
 * Open "www" then "languages"
