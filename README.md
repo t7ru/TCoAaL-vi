@@ -2,6 +2,8 @@
 <b>THIS REPOSITORY ALSO HAS CGs WITH TEXT MANUALLY REMOVED</b> (except for the main menu CG, I used AI for that,) <b>IF YOU'RE LOOKING FOR THEM THEY'RE IN THE "SourceAssets" FOLDER.</b>
 
 # The Coffin of Andy and Leyley Vietnamese translation
+[<i>Tiếng Việt ấn vào đây.</i>](https://github.com/t7ru/TCoAaL-vi/blob/main/README-vi.md)
+
 The Coffin of Andy and Leyley Vietnamese translation with CGs translated. <b>Based on [Orthez's](https://steamcommunity.com/profiles/76561199376023377) translation.</b>
 
 Made on ver. 2.0.14
@@ -23,20 +25,6 @@ Made on ver. 2.0.14
 * Open "www" then "languages"
 * Extract the vi folder in there
 * Finally, head into the game and you should be able to pick Vietnamese in the language option
-
-## Cài đặt
-- Đi đến phần phát hành (releases)  
-- Tải xuống tệp "VITranslation.zip"  
-- Mở thư mục TCoAaL của bạn  
-
-<details>  
-<summary><i>Bấm vào đây nếu bạn không biết cách tìm thư mục</i></summary>  
-- <img width="50%" src="GithubAssets/Tutorial.png" alt="tuto">  
-</details>  
-
-- Mở "www", rồi tiếp là "languages"  
-- Giải nén thư mục "vi" vào đó  
-- Mở game và bạn sẽ có thể chọn tiếng Việt trong phần cài đặt ngôn ngữ (languages)
 
 # Clean CGs FAQs
 ## How do I open PDN files?
