@@ -1,3 +1,8 @@
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
 # CLEAN CGS WITHOUT TEXT
 <b>THIS REPOSITORY ALSO HAS CGs WITH TEXT MANUALLY REMOVED</b> (except for the main menu CG, I used AI for that,) <b>IF YOU'RE LOOKING FOR THEM THEY'RE IN THE "SourceAssets" FOLDER.</b>
 
@@ -36,4 +41,4 @@ PDN files has layers which can be moved meaning you can put text or images under
 PNG are fixed, they don't have layers.
 
 ## Do I have to credit you?
-No, of course not! I don't own these images, I merely just edited them out. Sharing this repository should be done out of good will instead of being necessary.
+No, of course not! <b>I do not own these images</b>, I merely just edited them out. Copyright goes to the developer, Neimei or Kit19 Studio. Sharing this repository should be done out of good will instead of being necessary.
